@@ -1,0 +1,244 @@
+body{
+    margin: 0px;
+    overflow-x: hidden;
+}
+.header{
+    width: 100%;
+    height: 65px;
+    background: #0a0b27;
+}
+body{
+    margin: 0px;
+    overflow-x: hidden;
+    }
+.logo{
+        width: 124px;
+        margin-left: 25px;
+        margin-top: 15px;
+    }
+    .label1{
+        font-size: 20px;
+        letter-spacing: 1px;
+        height: 60px;
+        color: white;
+        padding: 10px;
+        font-family: math;
+        margin-left: 135px;
+    }
+    .label2{
+        font-size:20px ;
+        letter-spacing: 1px;
+        height: 60px;
+        font-family: math;
+        color: #fff;
+        padding: 10px;
+        margin-left: 10px;
+    }
+    .label3{
+        font-size:20px ;
+        letter-spacing: 1px;
+        height:60px;
+        font-family: math;
+        color: #fff;
+        padding: 10px;
+        margin-left: 10px;
+    }
+    .label4{
+        font-size:20px ;
+        letter-spacing: 1px;
+        height:60px;
+        font-family: math;
+        color: #fff;
+        padding: 10px;
+        margin-left: 10px;
+    }
+    .label5{
+        font-size:20px ;
+        letter-spacing: 1px;
+        height:60px;
+        font-family: math;
+        color: #fff;
+        padding: 10px;
+    }
+    .label6{
+        font-size:20px ;
+        letter-spacing: 1px;
+        height:60px;
+        font-family: math;
+        color: #fff;
+        padding: 10px;
+        margin-left: 10px;
+    }
+    .label7{
+        font-size:20px ;
+        letter-spacing: 1px;
+        height:60px;
+        font-family: math;
+        color: #fff;
+        padding: 10px;
+    }
+    .label8{
+        font-size:20px ;
+        letter-spacing: 1px;
+        height:60px;
+        font-family: math;
+        color: #fff;
+        padding: 10px;
+    }
+
+    .image1{
+        width:100%;
+
+    }
+
+.center{
+    margin-top: -26px;
+    width: 100%;
+    height: 710.61px;
+    background-color: white;
+
+}.text2{
+    font-size: 24px;
+    position: relative;
+    left: 710px;
+    top: 135px;
+
+}.text{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}.logos1{
+    max-width: 29px;
+  padding-top: 8px;
+  padding-right: 1px;
+  cursor: pointer;
+  margin-left: 25px;
+}
+
+.black-session{
+    background-color: #0a0b27;
+    width: 638px;
+    height: 967px;
+    position: relative;
+    top: -670px;
+}.anim
+{
+    width: 188px;
+    position: relative;
+    top: 189px;
+    left: 201px;
+    justify-content: center;
+}
+.head1{
+    left: 135px;
+    top: -179px;
+    position: relative;
+    color: white;
+    font-size: 71px;
+    font-weight: 900;
+}
+.head2{
+    left: 227px;
+    top: -234px;
+    position: relative;
+    color: white;
+    font-size: 71px;
+    font-weight: 900;
+}
+ .image2{
+    width:100%;
+    position: relative;
+    top: 253px;
+    
+ }
+ .footer{
+    width:100%;
+    height: 150px;
+    border-bottom: 0;
+    position: relative;
+    top:250px;
+
+ }
+ .row1{
+
+      padding:30px;
+        font-size: 15px;
+        margin-left: 50px;
+        height:150px;
+        width: 100%;
+        
+ }
+ .row2 {
+ position: relative;
+ top: -180px;
+ font-size: 15px;
+ margin-left: 362px;
+ }
+ .mail1{
+    color:black;
+    font-family:cursive;
+    font-size:13px;
+    padding:-2p;
+    font-weight:bold;
+ }
+ .mail2{
+    color:black;
+    font-family:cursive;
+    font-size:13px;
+    padding:-2p;
+    font-weight:bold;
+ } 
+.mail3{
+    color:black;
+    font-family:cursive;
+    font-size:13px;
+    padding:-2p;
+    font-weight:bold;
+ }
+ .mail4{
+    color:black;
+    font-family:cursive;
+    font-size:13px;
+    padding:-2p;
+    font-weight:bold;
+ }
+  .row3{
+    position: relative;
+    font-size: 15px;
+    top: -370px;
+    margin-left: 65%;
+    color:black;
+  }
+.vigil{
+ color: black;
+ font-family: system-ui;
+
+ }
+ .annual {
+    padding: 2px;
+    position: relative;
+    top: 5px;
+    color: black;
+    font-weight:bold;
+}
+.info{
+ top: -13px;
+ position: relative;
+ color: black;
+ font-weight:bold;
+}
+.follow{
+position: relative;
+top: -15px;
+font-size: 16px;
+ }
+ 
+
+
+        
+
+    
+    
+ 
+
+    
